@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hola 👋
+
+🚀 AWS User Group Ensenada es una comunidad inclusiva y abierta para personas de todas las edades 🌍, apasionadas por la tecnología y la computación en la nube ☁️. Nuestro objetivo es fomentar el aprendizaje 📚, la colaboración 🤝 y el crecimiento profesional 🚀 a través de eventos, talleres y networking en torno a Amazon Web Services (AWS) y tecnologías de vanguardia. ¡Únete y sé parte de una comunidad que impulsa la innovación en México y Ensenada! 💡✨
+
+Aquí encontrarás recursos relevantes que puedes utilizar en cualquier momento.
 
 <!--
 
