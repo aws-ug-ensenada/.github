@@ -1,1 +1,1 @@
-# .github
+# AWS User Group Ensenada
